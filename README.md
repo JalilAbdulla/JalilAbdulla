@@ -97,7 +97,7 @@
     </a>
 </p>
 <p>
-    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdullayev"/>
-    <img src="https://raw.githubusercontent.com/JalilAbdullayev/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdullayev"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdullayev&theme=dark" alt="Jalil Abdullayev" />
+    <img src="https://raw.githubusercontent.com/JalilAbdulla/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
+    <img src="https://raw.githubusercontent.com/JalilAbdulla/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Jalil Abdulla"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalilabdulla&theme=dark" alt="Jalil Abdulla" />
 </div>
